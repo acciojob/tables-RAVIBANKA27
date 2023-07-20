@@ -1,4 +1,7 @@
 #total{
 	font-weight:bold;
 }
+table:hover{
+	cursor:pointer;
+}
 /* Your CSS Code here. */
